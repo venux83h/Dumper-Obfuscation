@@ -1,0 +1,24 @@
+🔐 JenMan V3 Obfuscation
+JenMan V3 is an advanced Lua / Luau virtualization obfuscator built to protect scripts from reverse engineering, dumping, and static analysis. It converts Lua logic into encrypted virtual machine instructions, permanently destroying the original source code.
+✨ Features
+VM-Level Obfuscation
+Converts Lua code into custom VM opcodes executed at runtime.
+Instruction Dispatcher
+All logic is processed through a secure virtual execution engine.
+Source Destruction
+Original Lua source cannot be recovered after obfuscation.
+Anti-Deobfuscation
+Resistant to beautifiers, decompilers, and static analysis tools.
+Encrypted Constants & Strings
+All data is decoded only during execution.
+Anti-Tamper Protection
+Script breaks if modified or partially dumped.
+🎨 Interface
+Crimson security theme
+Desktop & non-desktop support
+Lightweight and clean design
+🎯 Use Cases
+Protecting private or paid Lua scripts
+Preventing leaks and skidding
+Secure script distribution
+Advanced Lua security research
